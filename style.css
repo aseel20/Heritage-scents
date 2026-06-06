@@ -1,18 +1,18 @@
 body{
     margin:0;
     font-family:Georgia, serif;
-    background:#f5f0e8;
+    background:#f5f5dc;
 }
 
 header{
     background:#2d241c;
-    color:white;
-    text-align:center;
+    color: white;
+    text-align: center;
     padding:20px;
 }
 
 .hero{
-    text-align:center;
+    text-align: center;
     padding:100px 20px;
 }
 
@@ -22,11 +22,11 @@ header{
 
 button{
     background:#8b6f47;
-    color:white;
-    border:none;
+    color: white;
+    border: none;
     padding:12px 24px;
     font-size:16px;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .products{
